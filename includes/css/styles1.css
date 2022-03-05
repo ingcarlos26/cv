@@ -1,0 +1,185 @@
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+#hero {	
+	background: #D0D1DE;
+	margin-top: 50px;
+	margin-bottom: 0;
+}
+
+#pasos { 
+	background: #FFF;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#plan { 
+	background: #E5E4E2;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#contrato { 
+	background: #FFF;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#consejos { 
+	background: #D0D1DE;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#empresa { 
+	background: #FFF;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#monitoreo { 
+	background: #E5E4E2;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#confiable { 
+	background: #FFF;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#instalacion { 
+	background: #D0D1DE;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#facil { 
+	background: #FFF;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#vender { 
+	background: #E5E4E2;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#preguntas { 
+	background: #FFF;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+
+
+footer {
+   background: #333;
+   color: #eee;
+   font-size: 11px;
+   padding: 20px;
+}
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+body {
+   -webkit-font-smoothing: antialiased;
+   text-rendering: optimizelegibility; font-size:16px;
+}
+
+h1 { 
+	font-size: 32px; 
+	color: #008BD0;
+	margin: 10px 0 30px;
+	padding: 0;
+	text-align: center;
+}
+
+h2 { 
+	font-size: 26px; 
+	color: #FFA500;
+	margin: 0 0 30px;
+	padding: 0;
+}
+
+h3 { 
+	font-size: 22px; 
+	color: #073959;
+	margin: 0;
+	padding: 0;
+}
+
+p  { 
+	font-size: 16px; 
+	color: #999999;
+}
+
+ul.unstyled {
+   list-style: none;
+   padding: 0;
+   color: #999999;
+}
+
+
+
+.lead {
+   font-size: 18px;
+}
+
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+
+   
+.navbar-brand {
+         padding: 13px 15px;
+      }
+
+   
+
+
+
+
+
+
+
+
+/* --------------------------------------
+   Global Styles
+ -------------------------------------- */
+
+ .centeredimage {
+	text-align: center;
+}
+
+
+
+/* responsive table hack for firefox */
+
+@-moz-document url-prefix() {
+  fieldset { display: table-cell; }
+}
+ 
+
+
+
+/* --------------------------------------
+   Media Queries
+  -------------------------------------- */
+
+
+
